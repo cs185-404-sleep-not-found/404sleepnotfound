@@ -339,6 +339,7 @@ main {
 .deliverable-link.video-link {
     background: #ff0000;
     font-weight: 600;
+    flex-basis: 100%;
 }
 
 .deliverable-link.video-link:hover {
